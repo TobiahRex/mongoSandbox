@@ -1,0 +1,23 @@
+{
+  "name": "mongo-sandbox",
+  "version": "0.0.1",
+  "description": "Collection of Useful Mongo related docs - saved to Github for LT storage.",
+  "main": "mongoose.connection.schema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobiahrex/mongoSandbox.git"
+  },
+  "keywords": [
+    "mongo",
+    "mongoose"
+  ],
+  "author": "Tobiah Rex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobiahrex/mongoSandbox/issues"
+  },
+  "homepage": "https://github.com/tobiahrex/mongoSandbox#readme"
+}
